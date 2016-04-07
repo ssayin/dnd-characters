@@ -27,10 +27,10 @@
 
 ### Class Skills
 
-    7 ranks Sense Motive (Wis)
-    7 ranks Diplomacy (Cha)
-    6 ranks Knowledge (religion) (Int)
-    1 ranks Knowledge (nobility and royalty) (Int)
+    7 rank(s) Sense Motive (Wis)
+    7 rank(s) Diplomacy (Cha)
+    6 rank(s) Knowledge (religion) (Int)
+    1 rank(s) Knowledge (nobility and royalty) (Int)
     
 ### Feats
 
