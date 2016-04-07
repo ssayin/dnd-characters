@@ -6,7 +6,7 @@
     Age: 20
     HP: 32/32
     Level: 4 Paladin of Tyranny
-    Exp: 0/0
+    Exp: 0/10000
     Race: Human
     Deity: Zarus
     Alignment: LE
@@ -24,7 +24,6 @@
     Int: 11 (+0)
     Wis: 10 (+0)
     Cha: 17 (+3)
- 
 
 ### Class Skills
 
@@ -40,6 +39,7 @@
     Cleave
     
 ### Attack
+
     Base Attack Bonus: +4
     Ranged Attack Roll: +5
     Melee Attack Roll: +7
@@ -72,9 +72,13 @@
     Flint and steel
     10x Oil (1-pint flask) 1 lb. each
     10x Rations, trail 1 lb. each
-# 
+
+###
+ 
     14 GC 0 SC 0 SC
-#
+
+###
+
     Load: 62 lb.
 
 ### Carrying Capacity
