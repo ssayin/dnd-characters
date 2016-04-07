@@ -73,13 +73,13 @@
     10x Oil (1-pint flask) 1 lb. each
     10x Rations, trail 1 lb. each
 
-###
+### Currency
  
     14 GC 0 SC 0 CC
 
-###
+### Load
 
-    Load: 62 lb.
+    62 lb.
 
 ### Carrying Capacity
    
