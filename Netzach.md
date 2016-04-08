@@ -103,16 +103,16 @@
 
 ### Spells
 
+#### LV0
 
+    Arcane Mark (PHB)
+    Mage Hand (PHB)
+    Prestidigitation (PHB)
+    Light (PHB)
 
+#### LV1
 
+    Grease (PHB)
+    Mage Armor (PHB)
+    Shield (PHB)
 
-
-
-
-
-
-
-
-
-    
