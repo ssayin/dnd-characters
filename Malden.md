@@ -27,10 +27,10 @@
 
 ### Class Skills
 
-    7 ranks Sense Motive (Wis)
-    7 ranks Diplomacy (Cha)
-    6 ranks Knowledge (religion) (Int)
-    1 ranks Knowledge (nobility and royalty) (Int)
+    7 rank(s) Sense Motive (Wis)
+    7 rank(s) Diplomacy (Cha)
+    6 rank(s) Knowledge (religion) (Int)
+    1 rank(s) Knowledge (nobility and royalty) (Int)
     
 ### Feats
 
@@ -55,7 +55,7 @@
     
 ### Worn Equipment
 
-    Scale Mail 20 ft. +4 AC -4 ACP +3 Max Dex
+    Scale Mail +4 AC -4 ACP +3 Max Dex
     
 ### Saving Throws
 
@@ -73,13 +73,13 @@
     10x Oil (1-pint flask) 1 lb. each
     10x Rations, trail 1 lb. each
 
-###
+### Currency
  
     14 GC 0 SC 0 CC
 
-###
+### Load
 
-    Load: 62 lb.
+    62 lb.
 
 ### Carrying Capacity
    
