@@ -46,7 +46,7 @@
     
 ### Weapons
 
-    Greatsword 2d6 + 3 19-20/x2  Slashing
+    Greatsword 2d6 + 3 19-20/x2 Slashing
  
 ### Armor Class
     
