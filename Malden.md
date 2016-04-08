@@ -55,7 +55,7 @@
     
 ### Worn Equipment
 
-    Scale Mail +4 AC -4 ACP +3 Max Dex
+    Scale Mail 20 ft. +4 AC -4 ACP +3 Max Dex
     
 ### Saving Throws
 
@@ -101,16 +101,3 @@
 ### Spells
 
     None
-
-
-
-
-
-
-
-
-
-
-
-
-    
