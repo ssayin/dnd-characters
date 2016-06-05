@@ -1,7 +1,9 @@
 # Character Sheet
 
-### Basics
+![Half-elf](200px-HalfElf.jpg)
 
+### Basics
+    
     Name: Kyras
     Age: 21
     HP: 8/8

@@ -4,9 +4,9 @@
 
     Name: Erylon
     Age: 22
-    HP: 8/8
+    HP: 2/8
     Level: 1 Spellthief
-    Exp: 730/1000
+    Exp: 1180/1000
     Race: Human
     Alignment: LN
     Baseland Speed: 30 ft.
@@ -54,6 +54,7 @@
 ### Weapons
 
     Morningstar 1d8 + 1 x2 Bludgeoning and piercing 
+    Crossbow, heavy 1d10 19-20/x2 120 ft. Piercing
  
 ### Armor Class
     
@@ -83,14 +84,16 @@
     Whetstone 1 lb.
     Leather armor 15 lb.
     Morningstar 6 lb.
+    Crossbow, heavy 8 lb.
+    20 Bolts 2 lb. total
 
 ### Currency
  
-    78 GC 4 SC 8 CC
+    328 GC 4 SC 8 CC
 
 ### Load
 
-    40 + 1/2 lb.
+    50 + 1/2 lb.
 
 ### Carrying Capacity
    
