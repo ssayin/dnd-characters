@@ -1,7 +1,5 @@
 # Character Sheet
 
-![Half-elf](200px-HalfElf.jpg)
-
 ### Basics
     
     Name: Kyras

@@ -1,7 +1,5 @@
 # Character Sheet
 
-![Nehvan](nehvan.jpg)
-
 ### Basics
 
     Name: Nehvan

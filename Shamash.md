@@ -1,7 +1,5 @@
 # Character Sheet
 
-![Shamash](shamash.jpg)
-
 ### Basics
 
     Name: Shamash
